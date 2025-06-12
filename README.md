@@ -45,14 +45,14 @@ Türkçe Windows Forms tabanlı klasik Mayın Tarlası oyunu. Modern C# ile geli
 
 ## Proje Yapısı
 
-minesweeper/
-├── Form1.cs # Ana form ve uygulama başlangıcı
-├── Zorluk.cs # Zorluk seviyesi seçimi
-├── Tahta.cs # Oyun tahtası ve buton oluşturma
-├── Hucre.cs # Oyun mantığı ve hücre işlemleri
-├── SkorYoneticisi.cs # Skor kaydetme ve görüntüleme
-├── SkorVerisi.cs # Skor veri modeli
-└── MyTimerManager.cs # Zamanlayıcı yönetimi
+minesweeper/  
+├── Form1.cs              # Ana form ve uygulama başlangıcı  
+├── Zorluk.cs             # Zorluk seviyesi seçimi  
+├── Tahta.cs              # Oyun tahtası ve buton oluşturma  
+├── Hucre.cs              # Oyun mantığı ve hücre işlemleri  
+├── SkorYoneticisi.cs     # Skor kaydetme ve görüntüleme  
+├── SkorVerisi.cs         # Skor veri modeli  
+└── MyTimerManager.cs     # Zamanlayıcı yönetimi  
 
 ## Skor Sistemi
 
