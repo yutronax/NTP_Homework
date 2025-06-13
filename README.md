@@ -42,7 +42,7 @@ Türkçe Windows Forms tabanlı klasik Mayın Tarlası oyunu. Modern C# ile geli
 - .NET Framework 4.7.2 veya üzeri
 - Windows işletim sistemi
 - Visual Studio 2019 veya üzeri (geliştirme için)
-- Visual Studio'da Winforms ekranında FlowLayoutPanel eklenmelidir
+- Visual Studio'da Winforms ekranında FlowLayoutPanel ve Timer eklenmelidir
 
 ## Proje Yapısı
 
